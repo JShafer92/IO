@@ -14,8 +14,6 @@ int main()
 	getline(cin, userName);
 	//greet the user
 	cout << "\nHello" << userName << "welcome to Jumanji";
-
 	system("pause");
-
 	return 0;
 } 
